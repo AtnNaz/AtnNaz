@@ -7,7 +7,7 @@
 
 ### 👨‍💻 About Me
 
-I'm **Ali Toprak Naz (Atn)** — an open-source lover, Linux enthusiast, and a developer who can't stop rooting Android devices.  
+I'm **Ali Toprak Naz (Atn)** — an open-source lover, Linux enthusiast, and a developer .  
 I explore everything from backend development to hardware, and from PLCs to embedded systems.  
 Cybersecurity, automation, system design, and mechanical engineering aren’t just hobbies — they are my lifestyle.  
 
