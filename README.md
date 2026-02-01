@@ -7,9 +7,10 @@
 
 ### 👨‍💻 About Me
 
-I'm **Ali Toprak Naz (Atn)** — an open-source lover, Linux enthusiast, and a developer .  
-I explore everything from backend development to hardware, and from PLCs to embedded systems.  
-Cybersecurity, automation, system design, and mechanical engineering aren’t just hobbies — they are my lifestyle.  
+I'm an open-source enthusiast, Linux user, and developer with a broad technical background.  
+My work and interests cover backend development, hardware systems, PLCs, and embedded systems.
+
+I focus heavily on cybersecurity, automation, system design, and mechanical engineering—fields that I actively explore through hands-on projects and continuous learning.
 
 ---
 
@@ -25,11 +26,6 @@ Cybersecurity, automation, system design, and mechanical engineering aren’t ju
 - **PLC & TIA Portal** — industrial automation and control systems   
 - **ESP32 / Arduino** — embedded systems and DIY projects  
 - **SolidWorks** — 3D modeling and mechanical design  
-
-#### 🐧 Systems & Cyber
-- **Arch Linux** — because Linux is life  
-- **Cybersecurity** — pentesting, analysis, and hardening systems  
-- **Rooting & Custom ROMs** — pushing Android to the limits  
 
 ---
 
