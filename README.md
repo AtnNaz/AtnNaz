@@ -5,7 +5,7 @@
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 
 I'm an open-source enthusiast, Linux user, and developer with a broad technical background.  
 My work and interests cover backend development, hardware systems, PLCs, and embedded systems.
