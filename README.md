@@ -1,7 +1,7 @@
 <!-- 🌙 Atn / Ali Topraknaz - GitHub Profile README -->
 
-<h1 align="center">Hey, I'm Atn 👋</h1>
-<h3 align="center">💻 Developer | ⚡ Cybersecurity Enthusiast | 🐧 Linux User | 🛠️ Engineer</h3>
+<h1 align="center">Hey, I'm Atn </h1>
+<h3 align="center">💻 Developer | ⚡ Cybersecurity Enthusiast |  Linux User | 🛠️ Engineer</h3>
 
 ---
 
@@ -14,9 +14,9 @@ I focus heavily on cybersecurity, automation, system design, and mechanical engi
 
 ---
 
-### 🧠 Skills & Technologies
+###  Skills & Technologies
 
-#### 🐍 Software & Web
+####  Software & Web
 - **Python** — from scripting to backend development  
 - **HTML / CSS** — responsive and minimalist web design
 - **Delphi** — beginner to intermediate applications 
@@ -29,14 +29,14 @@ I focus heavily on cybersecurity, automation, system design, and mechanical engi
 
 ---
 
-### 🌐 Links
+###  Links
 
-🔗 **Website:** [alitopraknaz.com.tr](https://alitopraknaz.com.tr)  
-💼 **LinkedIn:** [linkedin.com/in/alitopraknaz](https://www.linkedin.com/in/alitopraknaz?originalSubdomain=tr)  
+ **Website:** [alitopraknaz.com.tr](https://alitopraknaz.com.tr)  
+ **LinkedIn:** [linkedin.com/in/alitopraknaz](https://www.linkedin.com/in/alitopraknaz?originalSubdomain=tr)  
 
 ---
 
-### 🧩 Fun Fact
+###  Fun Fact
 > "If it runs on Linux, it’s already faster.  
 >  If it’s open-source, it’s already better."
 
